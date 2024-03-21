@@ -1,4 +1,4 @@
-local version = 3
+local version = 2
 
 local f = CreateFrame("Frame")
 f:RegisterEvent("ADDON_LOADED")

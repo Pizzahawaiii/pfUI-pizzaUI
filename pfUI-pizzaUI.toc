@@ -6,5 +6,7 @@
 ## Dependencies: pfUI
 
 pfUI-pizzaUI.lua
+versions\v1\main.lua
+versions\v1\profile.lua
 versions\v2\main.lua
 versions\v2\profile.lua

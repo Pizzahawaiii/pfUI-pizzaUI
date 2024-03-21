@@ -6,10 +6,14 @@ ultrawide monitors.
 ## Screenshots
 
 <img src="https://raw.githubusercontent.com/Pizzahawaiii/pfUI-pizzaUI/main/screenshots/clean.png">
-<img src="https://raw.githubusercontent.com/Pizzahawaiii/pfUI-pizzaUI/main/screenshots/chat.png" width="48.5%">
-<img src="https://raw.githubusercontent.com/Pizzahawaiii/pfUI-pizzaUI/main/screenshots/chat-xp-rep.png" width="48.5%" align="right">
-<img src="https://raw.githubusercontent.com/Pizzahawaiii/pfUI-pizzaUI/main/screenshots/casting.png" width="48.5%">
-<img src="https://raw.githubusercontent.com/Pizzahawaiii/pfUI-pizzaUI/main/screenshots/melee.png" width="48.5%" align="right">
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Pizzahawaiii/pfUI-pizzaUI/main/screenshots/chat.png" width="48.5%">
+  <img src="https://raw.githubusercontent.com/Pizzahawaiii/pfUI-pizzaUI/main/screenshots/chat-xp-rep.png" width="48.5%" align="right">
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Pizzahawaiii/pfUI-pizzaUI/main/screenshots/casting.png" width="48.5%">
+  <img src="https://raw.githubusercontent.com/Pizzahawaiii/pfUI-pizzaUI/main/screenshots/melee.png" width="48.5%" align="right">
+</p>
 
 ## Dependencies
 

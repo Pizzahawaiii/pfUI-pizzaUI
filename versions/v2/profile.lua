@@ -459,9 +459,7 @@ f:SetScript("OnEvent", function ()
         ["left"] = "gold",
       },
       ["xp"] = {
-        ["xp_always"] = "1",
         ["rep_position"] = "TOP",
-        ["rep_always"] = "1",
         ["xp_height"] = "267",
         ["xp_position"] = "TOP",
         ["xp_width"] = "4",

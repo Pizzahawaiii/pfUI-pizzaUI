@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa [|cff33aa88pizza|cffaaaaaaUI]
+## Author: Pizzahawaii
+## Notes: [pizzaUI] is a custom pfUI configuration
+## Version: 1.0
+## Dependencies: pfUI
+
+pfUI-pizzaUI.lua
+versions\v3\main.lua
+versions\v3\profile.lua

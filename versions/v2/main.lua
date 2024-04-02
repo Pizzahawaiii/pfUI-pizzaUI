@@ -5,7 +5,9 @@ f:SetScript("OnEvent", function ()
 
   -- Reduce DruidManaBar height and backgrop inset
   if IsAddOnLoaded("DruidManaBar") or _G["DruidManaBar"] then
-    DruidManaBar:SetHeight(pfUI.uf.player.config.pheight / 2)
-    pfUI.api.CreateBackdrop(DruidManaBar, 0)
+    if DruidManaBar then
+      DruidManaBar:SetHeight(pfUI.uf.player.config.pheight / 2)
+      pfUI.api.CreateBackdrop(DruidManaBar, 0)
+    end
   end
 end)

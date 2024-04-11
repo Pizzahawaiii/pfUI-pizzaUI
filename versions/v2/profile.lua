@@ -471,7 +471,7 @@ f:SetScript("OnEvent", function ()
       ["autosell"] = "1",
       ["font_unit_name"] = "Interface\\AddOns\\pfUI-fonts\\fonts\\Sniglet.ttf",
       ["autorepair"] = "1",
-      ["profile"] = "pizzaUI 2",
+      ["profile"] = "|cff33aa88pizzaUI |r" .. version,
       ["font_combat"] = "Interface\\AddOns\\pfUI-fonts\\fonts\\Sniglet.ttf",
       ["font_unit"] = "Interface\\AddOns\\pfUI-fonts\\fonts\\Sniglet.ttf",
       ["font_size"] = "14",

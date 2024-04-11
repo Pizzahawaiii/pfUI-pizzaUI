@@ -1,7 +1,6 @@
 # 🍕 PizzaUI
 
-A tasty [pfUI](https://github.com/shagu/pfUI) config for vanilla WoW, optimized for
-ultrawide monitors.
+A tasty [pfUI](https://github.com/shagu/pfUI) config for vanilla WoW.
 
 ## Screenshots
 

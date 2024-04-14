@@ -4,7 +4,7 @@ f:SetScript("OnEvent", function ()
   if pizzaUI:Version() ~= 2 then return end
 
   -- Reduce DruidManaBar height and backgrop inset
-  if IsAddOnLoaded("DruidManaBar") or _G["DruidManaBar"] then
+  if IsAddOnLoaded("DruidManaBar") or (_G and _G["DruidManaBar"]) then
     if DruidManaBar then
       DruidManaBar:SetHeight(pfUI.uf.player.config.pheight / 2)
       pfUI.api.CreateBackdrop(DruidManaBar, 0)

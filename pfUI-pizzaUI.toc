@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa [|cff33aa88pizza|cffaaaaaaUI]
+## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa [|cffa050ffpizza|cffaaaaaaUI]
 ## Author: Pizzahawaii
 ## Notes: [pizzaUI] is a custom pfUI configuration
 ## Version: 1.0
